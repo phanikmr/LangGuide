@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LangGuide</string>
+    <string name="from_text">From:</string>
+    <string name="action_settings">Settings</string>
+    <string name="touch_to_type">Touch to type</string>
+    <string name="to_text">To:</string>
+    <string name="align_text">----------Align text----------</string>
+
+</resources>
